@@ -1,7 +1,7 @@
 # Code-Refactor
 
-What Was Done On This Project:
-HTML:
+What Was Done On This Project:<br>
+HTML:<br>
 -Space out all the code for readability<br>
 -Added "title" attribute to tags with class="hero" to describe the image<br>
 -Added alt attributes to the images whose alt attributes were absent<br>
